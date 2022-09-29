@@ -1,0 +1,16 @@
+CDSD: Cooling Degree Days Season to Date ( أيام درجة التبريد من الموسم حتى تاريخه )
+EMNT: Extreme minimum temperature for the period. ( درجة الحرارة الصغرى القصوى لهذه الفترة. )
+EMSN:Extreme maximum snowfall for the period. ( أقصى تساقط للثلوج خلال هذه الفترة. )
+EMXT:Extreme maximum temperature for the period. ( أقصى درجات الحرارة القصوى لهذه الفترة. )
+SNOW:Snowfall ( تساقط ثلج )
+TAVG:Average Temperature  ( معدل الحرارة)
+TMAX:Maximum temperature ( درجة الحرارة القصوى )
+TMIN:Minimum temperature ( أدنى درجة حرارة )
+
+
+---------------------------
+WMO Station Number: رقم محطة المنظمة العالمية للأرصاد الجوية
+National Station Id Number: رقم هوية المحطة الوطنية
+Statistic Description: الوصف الإحصائي   Unit: الوحدة
+Footnotes for ever month: هامش
+
